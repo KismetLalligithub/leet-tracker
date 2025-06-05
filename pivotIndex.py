@@ -14,4 +14,15 @@ def pivotIndex(nums):
                 return 0
         elif prefix_s[i - 1] == prefix_s[n - 1] - prefix_s[i]: 
             return i 
-    return -1 
+    return -1
+
+#one pass solution
+def pivotIndex(nums): 
+    total = sum(nums)
+    left = 0
+    
+    for i, x in enumerate(nums): 
+        if left == total - left - x: 
+            return i
+        left += x 
+    return -1
