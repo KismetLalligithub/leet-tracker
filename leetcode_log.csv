@@ -1,0 +1,2 @@
+date,id,problem,langauge,complexity,status,time_min,notes
+2025-06-04,217,contains_duplicate,python,O(n),passed,5,first easy done
