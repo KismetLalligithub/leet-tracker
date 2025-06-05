@@ -1,4 +1,5 @@
 date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-04,217,contains_duplicate,python,O(n),passed,5,first easy done
 2025-06-04,125,valid_palindrome,python,O(n),passed,15,second easy done
-2025-06-04,724,pivot_index,python,o(n),passed,10,third easy done
+2025-06-04,724,pivot_index,python,O(n),passed,10,third easy done
+2025-06-04,64,find_max_average,python,O(n),passed,8,fourth easy done
