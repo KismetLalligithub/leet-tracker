@@ -10,3 +10,12 @@ def isPalindrome(s):
         
     return new_s[::-1] == new_s
 
+#better isPalindrome
+def isPalindrome(s): 
+    cleaned = []
+    for c in s: 
+        if c.isalnum():
+            cleaned.append(c.lower())
+    cleaned = ''.join(cleaned)
+    return cleaned == cleaned[::-1]
+
