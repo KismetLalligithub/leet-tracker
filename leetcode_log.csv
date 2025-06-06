@@ -4,3 +4,5 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-04,724,pivot_index,python,O(n),passed,10,third easy done
 2025-06-04,64,find_max_average,python,O(n),passed,8,fourth easy done
 2025-06-04,3,length_of_longest_substring,python,O(n),passed,18,first easy done
+2025-06-05,151,reverse_words,python,O(n),passed,2,first medium done
+2025-06-05,76,minimum_window_substring,python,O(n),passed,35,first hard done
