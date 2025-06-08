@@ -11,4 +11,5 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-07,42,trapping_rain_water,python,O(n),passed,50,second hard done
 2025-06-07,53,max_sub_array,python,O(n),passed,40,medium done
 2025-06-07,238,product_of_array_except_self,python,O(n),passed,50,medium done
-2025-0607,560,subarray_sum_equals_k,python,O(n),passed,20,medium done
+2025-06-07,560,subarray_sum_equals_k,python,O(n),passed,20,medium done
+2025-06-07,594,longest_harmonious_subsequence,c++,O(n),passed,15,easy done
