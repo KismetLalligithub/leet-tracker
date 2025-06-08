@@ -8,3 +8,7 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-05,76,minimum_window_substring,python,O(n),passed,35,first hard done
 2025-06-05,11,container_with_most_water,python,O(n),passed,4,second medium done
 2025-06-05,189,rotate_array,python,O(n),passed,15,third medium done
+2025-06-07,42,trapping_rain_water,python,O(n),passed,50,second hard done
+2025-06-07,53,max_sub_array,python,O(n),passed,40,medium done
+2025-06-07,238,product_of_array_except_self,python,O(n),passed,50,medium done
+2025-0607,560,subarray_sum_equals_k,python,O(n),passed,20,medium done
