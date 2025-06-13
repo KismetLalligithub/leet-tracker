@@ -14,3 +14,4 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-07,560,subarray_sum_equals_k,python,O(n),passed,20,medium done
 2025-06-07,594,longest_harmonious_subsequence,c++,O(n),passed,15,easy done
 2025-06-07,206,reverse_linked_list,c++,O(n),passed,25,Linked_list_easy_done
+2025-06-12,15,three_sum,python,O(n^2),passed,13,medium finished

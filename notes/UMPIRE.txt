@@ -1,0 +1,7 @@
+The UMPIRE method: 
+	- Understand: What is exactly being asked? 
+	- Match: What exactly is being asked? 
+	- Plan: Step-by-step approach
+	- Implement: Write clean, correct code
+	- Review: check edge cases and optimize 
+	- Evaluate: Analyze time/space complexity
