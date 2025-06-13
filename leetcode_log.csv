@@ -16,3 +16,4 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-07,206,reverse_linked_list,c++,O(n),passed,25,Linked_list_easy_done
 2025-06-12,15,three_sum,python,O(n^2),passed,13,medium finished
 2025-06-12,18,four_sum,python,O(n^3),passed,20,medium finished
+2025-06-12,20,is_valid,python,O(n), passed,15,easy done
