@@ -1,0 +1,11 @@
+Concept Deep Dive:
+	Every problem has a state space - the set of all possible configurations. 
+
+	Explicit States: Array indices, tree nodes, and graph vertices. 
+
+	Implicit States: Subproblems in DP, game positions, search states. 
+
+	State Transitions: How to move from one state to another.
+
+	Base Cases: Terminal states or trivial cases. 
+
