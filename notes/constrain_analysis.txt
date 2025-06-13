@@ -1,0 +1,20 @@
+Constraint Analysis
+	n <= 10: 
+	O(n!) backtracking, permutations
+
+	n <= 20: 
+	O(2^n) algorithms
+	bitmask DP, subset enumeration
+
+	n <= 500
+	O(n^3) algorithms (Floyd-warshall, DP with 3 dimensions)
+
+	n <= 5000
+	O(n^2) algorithms (nested loops, simple DP)
+
+	n <= 10^6
+	O(n logn) algorithms (sorting, binary search, segment trees)
+
+	n <= 10^8 
+	O(n) or O(log n) algorithms only
+
