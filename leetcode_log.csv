@@ -18,4 +18,4 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-12,18,four_sum,python,O(n^3),passed,20,medium finished
 2025-06-12,20,is_valid,python,O(n), passed,15,easy done
 2025-06-13,70,climb_stairs,python,O(n),passed,10,easy done
-2025-06-16,198,robbing_houses,python,O(n),not passed,N/A,not completed yet
+2025-06-16,198,robbing_houses,python,O(n),passed,15,completed
