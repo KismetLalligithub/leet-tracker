@@ -1,17 +1,14 @@
 def robbingHouses(nums): 
-    l1, l2, sum1, sum2 = 0, 1, 0, 0 
+    if not nums: 
+        return 0
+    if len(nums) < 3: 
+        return max(nums)
+    
+    prev1, prev2 = 0, 0 
 
-    while l1 < len(nums) and l2 < len(nums): 
-        sum1 += nums[l1]
-        sum2 += nums[l2]
-        l1 += 2 
-        l2 += 2
+    for i in range(len(nums)): 
+        temp = max(prev1, prev2 + num)
+        prev2 = prev1 
+        prev1 = temp
 
-    if l1 < len(nums): 
-        sum1 += nums[l1]
-    if l2 < len(nums): 
-        sum2 += nums[l2]
-
-    return max(sum1, sum2)
-
-print(robbingHouses([1, 2, 3, 4]))
+    return prev1 
