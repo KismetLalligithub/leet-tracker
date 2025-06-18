@@ -1,0 +1,7 @@
+Three main categories: 
+	Construction Problems: Build something (permuations, combinations, paths)
+
+	Optimization Problems: Find best solutions (shortest path, max profit)
+
+	Decision Problems: Yes/no answer (can reach target, valid sequence)
+
