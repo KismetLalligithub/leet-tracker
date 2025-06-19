@@ -22,3 +22,4 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-17,53,max_subarray,python,O(n),passed,10,redo as dp
 2025-06-17,53,max_subarray,python,O(n),passed,10,redid as Kadane for constant space
 2025-06-17,121,max_profit,python,O(n),passed,5,easy done
+2025-06-17,22,generate_parantheses,python,O(4^n/ root(n)),passed,35,medium done
