@@ -24,3 +24,4 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-17,121,max_profit,python,O(n),passed,5,easy done
 2025-06-17,22,generate_parantheses,python,O(4^n/ root(n)),passed,35,medium done
 2025-06-18,3443,max_manhattan_distance,python,O(3n),passed,50,had to look up solution
+2025-06-18,706,implement_HashMap,python,variable O(1) -> O(n), passed,15,finished easy system design
