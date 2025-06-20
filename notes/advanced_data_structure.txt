@@ -1,0 +1,7 @@
+HashMap Deep Dive: 
+	1. Hash functions: How keys map to buckets. 
+	2. Collision Resolution: Chaining vs Open Addressing
+	3. Load Factor: When to resize (typically 0.75)
+	4. Performace: On average O(1), worst case tends to be O(n) -> impressive
+
+
