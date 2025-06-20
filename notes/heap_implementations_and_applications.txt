@@ -1,0 +1,5 @@
+Min-Heap: Parent <= children, root is minimum
+Max-Heap: Parent >= children, root is maximum
+Array Representation: For index i, children at 2i + 1 and 2i + 2
+Operations: Insert O(log n), Extract O(log n), Peek O(1)
+
