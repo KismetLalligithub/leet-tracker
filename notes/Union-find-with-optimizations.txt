@@ -1,0 +1,7 @@
+Union-Find Deep Dive: 
+	Union-Find (Disjoint Set Union) is crucial for connectivity problems
+
+	Path Compression: Make trees flat during find operations. 
+	Union by Rank: Attach smaller tree under larger tree. 
+	Applications: Connected components, cycle detection, Kruskal's algorithm
+
