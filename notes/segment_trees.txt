@@ -1,0 +1,9 @@
+Segment Tree Deep Dive: 
+	Segment trees handle range queries efficently 
+
+	Range sum/min/max: Query and update in O(log n)
+
+	lazy propagation: batch updates efficiently
+
+	applications: range queries with updates coordinate compression
+
