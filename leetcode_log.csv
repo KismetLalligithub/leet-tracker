@@ -30,3 +30,4 @@ date,id,problem,langauge,complexity,status,time_min,notes
 2025-06-27,-,num_is_islands_with_union,python,O(n),passed,20,finished medium
 2025-07-12,200, num_islands_dfs,python,O(mn),passed,~,finished medium
 2025-07-12,~,implement_segment_trees,python,~,~,~,finished implementation
+2025-07-12,~,implement_LRUCache,python,~,~,~,finished implementation
