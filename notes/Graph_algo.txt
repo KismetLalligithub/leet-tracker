@@ -1,0 +1,7 @@
+Adj list: Space O(V + E) good for sparse graphs
+
+Adj Matrix: Space O(V**2), good for sense graphs, fast edge queries
+
+Edge List: Space O(E), good for algorithms like Kruskal's. 
+
+
